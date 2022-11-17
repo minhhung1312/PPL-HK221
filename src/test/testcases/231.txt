@@ -1,0 +1,6 @@
+class Example2 extends ABC {
+                    void main(){
+                        system.out.println("hello");
+                        system.out(println,22,5.2,"tr",true);
+                    }
+        }

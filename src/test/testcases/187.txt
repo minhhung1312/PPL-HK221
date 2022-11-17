@@ -1,0 +1,7 @@
+
+            class Shape {
+                float length, width;
+                float getArea() {
+                }
+            }
+        

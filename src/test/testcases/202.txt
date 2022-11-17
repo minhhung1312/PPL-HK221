@@ -1,0 +1,5 @@
+
+        Class HelloKitty{
+            int uoa;
+            float a = 3.0;
+            }

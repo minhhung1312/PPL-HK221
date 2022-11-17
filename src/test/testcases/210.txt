@@ -1,0 +1,9 @@
+
+        class ID {
+            static int total=0;
+            string name;
+            ID(){
+                this.name:=nil;
+            }
+        }
+        

@@ -1,0 +1,1 @@
+static final float abc = 2.05;

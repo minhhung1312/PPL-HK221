@@ -1,0 +1,8 @@
+
+        class Example1 {
+            void main(){
+            float a;
+            io.writeFloatLn(a);
+            }
+        }
+        
